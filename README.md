@@ -9,7 +9,7 @@ Solicitei ao ChatGPT a criação de um roteiro para webcomic infantil, onde algu
 Copiei o desenho gerado no ChatGPT para o libreoffice impress, e adiconei os textos das conversas das abelhas geradas pelo ChatGPT.
 
 ## 🚀 Resultados
-Roteiro e Desenho do quadrinho chamado pelo ChatGPT de "A Conversa das Abelhinhas".
+[Veja o quadrinho](https://github.com/seu-usuario/seu-repositorio/blob/main/arquivo.pdf)
 
 ## 💭 Reflexão (Opcional)
 Com poucos comandos a ferramenta de I.A conseguiu gerar tudo que eu precisava, sendo necessário pequeno ajuste.
